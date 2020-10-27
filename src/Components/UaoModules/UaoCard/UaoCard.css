@@ -1,0 +1,23 @@
+.o-cardContainer{
+    width: 20rem;
+    height: 22rem;
+    background-color: #fff;
+    padding: 1rem;
+    border-radius: 3rem;
+    box-shadow: 5px 5px 15px #ccc;
+    margin: 1rem;
+}
+.o-img{
+    width: 100%;
+}
+
+.o-buttonCard {
+    margin: 0.5rem;
+    width: 9rem;
+    height: 3rem;
+    border-radius: 2rem;
+    background: white;
+    border: 1px solid #9E0B0C;
+    color: #9E0B0C;
+    font-size: 1rem;
+}
